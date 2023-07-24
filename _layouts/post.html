@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="post">
+  <div class="post-nav">
+    {% if page.next.url %}
+      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; prev project </a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">next project &raquo;</a>
+    {% endif %}
+  </div>
+
+  <header class="post-header">
+    <center><h4 class="post-title">{{ page.title }}</h4></center>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="post">
+    <div class="post-nav">
+      {% if page.next.url %}
+        <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; prev project </a>
+      {% endif %}
+      {% if page.previous.url %}
+        <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">next project &raquo;</a>
+      {% endif %}
+    </div>
+
+</div>

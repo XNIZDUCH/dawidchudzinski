@@ -1,0 +1,22 @@
+/*!
+ * Milligram-scss v1.3.0
+ * https://milligram.github.io
+ *
+ * Copyright (c) 2017 CJ Patoilo
+ * Licensed under the MIT license
+ */
+
+
+// Link
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+a {
+	color: $color-primary;
+	text-decoration-style: solid;
+	font-weight:bold
+
+	&:focus,
+	&:hover {
+		color: $color-secondary;
+	}
+}

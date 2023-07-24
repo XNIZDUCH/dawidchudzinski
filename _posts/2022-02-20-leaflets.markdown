@@ -1,0 +1,65 @@
+---
+layout: post
+title:  leaflets
+date:   2015-10-09 15:39:40
+preview: "/images/covers/leaflets_cover.jpg"
+archetype: graphic
+categories: graphic
+permalink: /:categories/:title
+---
+
+<center>
+<br/>
+<b>leaflet for burger shop</b><br/>
+format: a4 in half
+</center>
+<p>&nbsp;</p>
+
+![Picture 1](\images\graphic-design\leaflets\1.jpg)
+
+![Picture 2](\images\graphic-design\leaflets\2.jpg)
+
+![Picture 3](\images\graphic-design\leaflets\3.jpg)
+
+![Picture 4](\images\graphic-design\leaflets\4.jpg)
+
+![Picture 5](\images\graphic-design\leaflets\5.jpg)
+
+<center>
+best burgers in Cracov! check it out at <a href="https://www.luckyfood-burger.pl/">lucky food burger website</a>.
+</center>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<center>
+<b>leaflet for restaurant</b><br/>
+format: a5 | two sides
+</center>
+<p>&nbsp;</p>
+
+![Picture 6](\images\graphic-design\leaflets\6.jpg)
+
+![Picture 7](\images\graphic-design\leaflets\7.jpg)
+
+![Picture 8](\images\graphic-design\leaflets\8.jpg)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<center>
+<b>leaflet for small private buisness</b><br/>
+format a5 | one side
+</center>
+<p>&nbsp;</p>
+
+![Picture 8](\images\graphic-design\leaflets\9.jpg)
+
+
+

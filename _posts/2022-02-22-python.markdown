@@ -1,0 +1,15 @@
+---
+layout: page
+title:  python
+date:   2015-10-06 15:39:40
+preview: "/images/covers/python_cover.jpg"
+archetype: technology
+categories: technology
+permalink: /:categories/:title
+---
+{% include post_preview.html %}
+
+
+
+
+

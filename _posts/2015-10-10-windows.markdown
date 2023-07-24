@@ -1,0 +1,12 @@
+---
+layout: page
+title: windows
+date:   2015-10-06 15:39:40
+preview: "/images/covers/windows_cover.jpg"
+archetype: technology
+categories: technology
+permalink: /:categories/:title
+---
+<center>
+soon
+</center>
