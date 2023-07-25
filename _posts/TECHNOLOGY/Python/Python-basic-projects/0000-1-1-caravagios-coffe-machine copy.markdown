@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  simple calc
-date:   2015-10-06 15:39:40
 preview: "/images/covers/simple-calculator_cover.jpg"
 name: technology
 categories: python
