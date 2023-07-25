@@ -18,7 +18,7 @@ permalink: /:categories/:title
 	żar-głusza<br/>
 	wilgotnych i ciężkich<br/>
 	spalonych tchem wielkim<br/>
-	dającym widzenie tym<br/>
+	dającym widzenia tym<br/>
 	będącym w świecie sennych<br/>
 	myśli, kruszących kamienie<br/>
 	obrosłe mchem ułudy<br/>
