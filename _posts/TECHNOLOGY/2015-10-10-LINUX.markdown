@@ -8,4 +8,6 @@ categories: technology
 permalink: /:categories/:title
 ---
 
-![Picture 1]()
+<center>
+soon
+</center>
