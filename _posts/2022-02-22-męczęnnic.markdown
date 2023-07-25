@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Męczęnnic
+title:  Męczęnnica
 date:   2022-02-22 15:39:40
+preview: "/images/covers/text3_cover.jpg"
 archetype: text
 categories: text
 permalink: /:categories/:title
@@ -10,7 +11,7 @@ permalink: /:categories/:title
 <p style="text-indent: 6%; ">
 <br/>
 	Na miękkim kolanie<br/>
-	spisane konanie.<br/>
+	pisane konanie.<br/>
 	nie Koran poznaje<br/>
 	lecz siebie<br/>
 	samego.<br/>
@@ -26,3 +27,5 @@ permalink: /:categories/:title
 	tego Nikt wie,<br/>
 	to niewiedzą wszyscy.<br/>
 <br/>
+
+2022 rok, Poznań herbarciarnia Kwietna.
