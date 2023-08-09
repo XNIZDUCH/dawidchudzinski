@@ -14,7 +14,7 @@ short story for <a href="https://sklep.tomarsport.pl/"><b>TOMAR</b></a> company.
 <br/>
 <br/>
 
-<embed src="\images\pdf\słodka.pdf" width="888" height="1000" 
+<embed src="\images\pdf\slodka.pdf" width="888" height="1000" 
  type="application/pdf">
 
 </center>
