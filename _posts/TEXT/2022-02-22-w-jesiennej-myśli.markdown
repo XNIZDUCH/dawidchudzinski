@@ -16,7 +16,7 @@ permalink: /:categories/:title
 	do roślin zwiodła ją<br/>
 	żar-głusza<br/>
 	wilgotnych i ciężkich<br/>
-	spalanych tchem jednym<br/>
+	spalonych tchem jednym<br/>
 	dającym widzenia tym<br/>
 	będącym w świecie sennych<br/>
 	myśli kruszących kamienie<br/>
